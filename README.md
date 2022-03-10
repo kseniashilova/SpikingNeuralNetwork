@@ -11,5 +11,8 @@ https://github.com/miladmozafari/SpykeTorch
 
 https://github.com/kaizouman/tensorsandbox/blob/master/snn/simple_spiking_model.ipynb
 
+  
+explanation for intensity-to-latency encoding https://www.frontiersin.org/articles/10.3389/fnins.2017.00350/full. 
+encoding schemes https://link.springer.com/article/10.1007/s11063-021-10562-2.   
 
 ##### https://www.frontiersin.org/articles/10.3389/fnins.2019.00625/full  
