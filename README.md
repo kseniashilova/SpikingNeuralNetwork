@@ -16,3 +16,6 @@ explanation for intensity-to-latency encoding https://www.frontiersin.org/articl
 encoding schemes https://link.springer.com/article/10.1007/s11063-021-10562-2.   
 
 ##### https://www.frontiersin.org/articles/10.3389/fnins.2019.00625/full  
+
+
+learned layers: https://disk.yandex.ru/d/jjZ_BuN76SbUaQ 
